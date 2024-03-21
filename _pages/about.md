@@ -16,11 +16,9 @@ My research includes the design of flexible electronic circuits with different f
 
 
 
-
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 New_cubic mini-TV project is finished.
 - *2024.01*: &nbsp;🎉🎉 Article about soft hand is submitting.
-
 
 
 
