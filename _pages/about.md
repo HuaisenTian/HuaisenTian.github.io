@@ -15,9 +15,13 @@ I am a graduate student majoring in Mechatronics Engineering at Sichuan Universi
 My research includes the design of flexible electronic circuits with different functions, mechanical structure design, circuit simulation, the development of host computer applications incorporating flexible electronics, and the design and construction of neural networks for processing timing signals.
 
 
+
+
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 New_cubic mini-TV project is finished.
 - *2024.01*: &nbsp;🎉🎉 Article about soft hand is submitting.
+
+
 
 
 # 📝 Publications 
@@ -27,19 +31,27 @@ My research includes the design of flexible electronic circuits with different f
 
 [Ruptured liquid metal microcapsules enabling hybridized silver nanowire networks towards high-performance deformable transparent conductors - Nanoscale (RSC Publishing)](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d3nr06508a)
 
-Shipeng Wanga, **Huaisen Tian**, Yawen Wang, Haojie Zuo, Chengliang Tao, Jiawei Liu, Pengyuan Li, Yan Yang, Xu Kou, Jiangxin Wang and  Wenbin Kang
+Shipeng Wang, **Huaisen Tian**, Yawen Wang, Haojie Zuo, Chengliang Tao, Jiawei Liu, Pengyuan Li, Yan Yang, Xu Kou, Jiangxin Wang and  Wenbin Kang
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
+
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
