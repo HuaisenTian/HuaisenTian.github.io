@@ -32,7 +32,8 @@ My research includes the design of flexible electronic circuits with different f
 [Ruptured liquid metal microcapsules enabling hybridized silver nanowire networks towards high-performance deformable transparent conductors - Nanoscale (RSC Publishing)](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d3nr06508a)
 
 Shipeng Wang, **Huaisen Tian**, Yawen Wang, Haojie Zuo, Chengliang Tao, Jiawei Liu, Pengyuan Li, Yan Yang, Xu Kou, Jiangxin Wang and  Wenbin Kang
-
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
