@@ -4,12 +4,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Huaisen Tian"
-description              : "Huaisen Tian's presentation"
+title                    : "Huaisen Tian 田淮森"
+description              : "A master of Sichuan University"
 repository               : "HuaisenTian/HuaisenTian.github.io"
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  google406b21c5be3b6ac2
 bing_site_verification   :  07F66CE6B655E2BE0CF233994408635E
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -17,7 +17,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huaisen Tian"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Mechanical Engineering College"
+  bio              : "Mechatronics Engineering"
   location         : "ChengDu, China"
   employer         : 
   email            : "telsontuai@fox.com"
