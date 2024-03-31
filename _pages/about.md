@@ -17,7 +17,7 @@ My research includes the creation of multifunctional soft electronic circuits, m
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 New_cubic mini-TV project is already open source.
+- *2024.04*: &nbsp;🎉🎉 New_cubic mini-TV project is already open source.
 - *2024.01*: &nbsp;🎉🎉 Article about soft electronic hand sensor is under submitting.
 
 
@@ -54,7 +54,7 @@ Shipeng Wang (Co-first author), **Huaisen Tian** (Co-first author), Yawen Wang, 
 
 # 💻 Open Source Projects
 
+- *2024.3*, [M2006_PID_control_on_stm32f103](https://github.com/HuaisenTian/M2006-3508_motor_control_on_STM32F103)
 - *2024.1*, [Soft electronic hand sensor](https://github.com/HuaisenTian/soft-hand)
-
 - *2023.9*, [QT-based serial port debugging assistant](https://github.com/HuaisenTian/serial_wave_port)
 
