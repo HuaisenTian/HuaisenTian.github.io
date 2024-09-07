@@ -32,7 +32,7 @@ Shipeng Wang (Co-first author), **Huaisen Tian** (Co-first author), Yawen Wang, 
 <div class='paper-box-text' markdown="1">
 [Elastic Metallic Conductors Enabling Stretchable Electronic Circuits for On-Skin Motion Recognition - Materials Today (Under Review)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938907)
 
-**Huaisen Tian** (Co-first author)，Kou Xu(Co-first author)，Shipeng Wang，Chengliang Tao，Shengkang Fu，Yan Yang，Jiawei Liu，Jiangxin Wang
+**Huaisen Tian** (Co-first author), Kou Xu(Co-first author), Shipeng Wang, Chengliang Tao, Shengkang Fu, Yan Yang, Jiawei Liu, Jiangxin Wang
 
 **Impact Factor ：** **21.130**
 </div>
