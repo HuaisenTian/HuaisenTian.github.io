@@ -28,7 +28,15 @@ Shipeng Wang (Co-first author), **Huaisen Tian** (Co-first author), Yawen Wang, 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today 2024</div><img src='images/Materials Today.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Elastic Metallic Conductors Enabling Stretchable Electronic Circuits for On-Skin Motion Recognition - Materials Today (Under Review)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938907)
 
+**Huaisen Tian** (Co-first author)，Kou Xu(Co-first author)，Shipeng Wang，Chengliang Tao，Shengkang Fu，Yan Yang，Jiawei Liu，Jiangxin Wang
+
+**Impact Factor ：** **21.130**
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.12* "Optical Glass Polishing Robot" Selected for State Prize at the 14th Annual National Conference on Innovation and Entrepreneurship Training Programs for College Students (第十四届全国大学生创新创业训练计划年会国创入选国奖"光学玻璃抛光机器人")
