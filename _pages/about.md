@@ -30,7 +30,7 @@ Shipeng Wang (Co-first author), **Huaisen Tian** (Co-first author), Yawen Wang, 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today 2024</div><img src='images/Materials Today.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Elastic Metallic Conductors Enabling Stretchable Electronic Circuits for On-Skin Motion Recognition - Materials Today (Under Review)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938907)
+[Elastic Metallic Conductors Enabling Stretchable Electronic Circuits for On-Skin Motion Recognition - Materials Today](https://authors.elsevier.com/sd/article/S1369-7021(24)00279-7)
 
 **Huaisen Tian** (Co-first author), Kou Xu(Co-first author), Shipeng Wang, Chengliang Tao, Shengkang Fu, Yan Yang, Jiawei Liu, Jiangxin Wang
 
