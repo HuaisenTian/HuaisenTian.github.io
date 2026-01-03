@@ -14,7 +14,9 @@ I am a graduate student majoring in Mechatronics Engineering at **Sichuan Univer
 
 My research includes the creation of multifunctional soft electronic circuits, mechanical structure design, circuit simulation, and the development of host computer applications utilizing flexible electronics. Additionally, it involves the design and implementation of neural networks for processing timing signals.
 
+I currently work in the NPU department at VeriSilicon Inc., where I am responsible for neural network optimization, quantization, cmodel development, hardware export, and testing networks in the DV environment.
 
+In the years since graduation, I've learned so much—lessons my student days never taught me. My life is peaceful and fulfilling. I have ample time to exercise, reflect, and explore life's meaning. I am content.
 
 # 📝 Publications 
 
@@ -62,3 +64,4 @@ Shipeng Wang (Co-first author), **Huaisen Tian** (Co-first author), Yawen Wang, 
 - *2022.9*, [QT-based serial port debugging assistant](https://github.com/HuaisenTian/serial_wave_port)
 - *2022.3*, [M2006_PID_control_on_stm32f103](https://github.com/HuaisenTian/M2006-3508_motor_control_on_STM32F103)
 
+- 2026.1,[3D_Saturn_love](https://huaisentian.github.io/saturn_love)
