@@ -14,7 +14,7 @@ I am a graduate student majoring in Mechatronics Engineering at **Sichuan Univer
 
 My research includes the creation of multifunctional soft electronic circuits, mechanical structure design, circuit simulation, and the development of host computer applications utilizing flexible electronics. Additionally, it involves the design and implementation of neural networks for processing timing signals.
 
-I currently work in the NPU department at VeriSilicon Inc., where I am responsible for neural network optimization, quantization, cmodel development, hardware export, and testing networks in the DV environment.
+I currently work in the NPU department at [VeriSilicon](https://www.verisilicon.com/cn/Home), where I am responsible for neural network optimization, quantization, cmodel development, hardware export, and testing networks in the DV environment.
 
 In the years since graduation, I've learned so much—lessons my student days never taught me. My life is peaceful and fulfilling. I have ample time to exercise, reflect, and explore life's meaning. I am content.
 
